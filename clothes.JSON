@@ -1,0 +1,190 @@
+{
+  "range": "Clothes!A1:Z1000",
+  "majorDimension": "ROWS",
+  "clothes": [
+    [
+      "Brown Oversized Fit Cotton Sweatshirt",
+      "https://www2.hm.com/en_us/productpage.1113064002.html",
+      "35",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2Fda%2F6fda7b3ad98c4a2e1f227b358ca2a2b6622ab7e7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "768"
+    ],
+    [
+      "Cream Relaxed Fit Sweater",
+      "https://www2.hm.com/en_us/productpage.1074074001.html",
+      "35",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F24%2F72%2F247251f256f7b37931cfecb6a7b75882f5f617a7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Light Blue Relaxed Fit Sweatshirt 1",
+      "https://www2.hm.com/en_us/productpage.0970818021.html",
+      "15",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F16%2Fec%2F16ec344e2d5899253bcd4837235c7103f56740f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Light Blue Relaxed Fit Sweatshirt 2",
+      "https://www2.hm.com/en_us/productpage.0970818034.html",
+      "15",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fdb%2F92%2Fdb9234f6e0cb3eef7154920ca3cbb0a6bad20a77.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Stone Gray Relaxed Fit Sweatshirt",
+      "https://www2.hm.com/en_us/productpage.0970818037.html",
+      "15",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb0%2Fd4%2Fb0d4c537e7a47f728439887a2b217c3041eba1ad.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Beige Melange Slim Fit Fine-knit Cotton Sweater",
+      "https://www2.hm.com/en_us/productpage.0564358084.html",
+      "25",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe2%2Fdf%2Fe2df9973b5064cc59706d7a10eacd01fa21f0f8a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    ],
+    [
+      "White Regular Fit Crew-neck T-shirt",
+      "https://www2.hm.com/en_us/productpage.0685816001.html",
+      "6",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F37%2F45%2F3745a5ed1007e70df9e4736e2d277b827b1e1e40.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bmen_tshirtstanks_shortsleeve%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Gray Regular Fit Sweatpants",
+      "https://www2.hm.com/en_us/productpage.0970817026.html",
+      "20",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6f%2F53%2F6f53b8ebef36f4675a495d13d8c5ba2c6e3a563f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Light Gray Melange Regular Fit Sweatpants",
+      "https://www2.hm.com/en_us/productpage.0970817018.html",
+      "20",
+      "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fea%2F16%2Fea164db89525eb35116f4ce5b7db7cbcd417cb86.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    ],
+    [
+      "Steel Gray Regular Fit Sweatpants",
+      "https://www2.hm.com/en_us/productpage.0970817006.html",
+      "20",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F12%2F88%2F1288e474341f954459c4db6f3c4468ab14fefe0a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Black Relaxed Fit Cargo Pants",
+      "https://www2.hm.com/en_us/productpage.1134832001.html",
+      "50",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F89%2Fac%2F89ac28f437b0c5d5f1a40026463238dd0cc544a2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    ],
+    [
+      "Beige Relaxed Fit Cotton Joggers",
+      "https://www2.hm.com/en_us/productpage.1035205010.html",
+      "40",
+      "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd2%2Ff1%2Fd2f18a39bce07cebf07272e79bdcfb4c4e7880ea.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]"
+    ],
+    [
+      "PacSun Pacific Sunwear Crew Neck Sweatshirt",
+      "https://www.pacsun.com/pacsun/pacific-sunwear-crew-neck-sweatshirt-0190522800026.html?tileCgid=mens",
+      "41",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw346b169d/product_images/0190522800026NEW_01_569.jpg?sw=500"
+    ],
+    [
+      "House of the Dragon Crew Neck Sweatshirt",
+      "https://www.pacsun.com/house-of-the-dragon-crew-neck-sweatshirt-0190603580106.html?tileCgid=mens",
+      "33",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw1276b655/product_images/0190603580106NEW_01_001.jpg?sw=500"
+    ],
+    [
+      "PacSun Miami Coast Crew Neck Sweatshirt",
+      "https://www.pacsun.com/pacsun/miami-coast-crew-neck-sweatshirt-0193522800187.html?tileCgid=mens",
+      "50",
+      "https://www.pacsun.com/dw/image/v2/AAJE_PRD/on/demandware.static/-/Sites-pacsun_storefront_catalog/default/dw5ea3b602/product_images/0193522800187NEW_01_001.jpg?sw=500"
+    ],
+    [
+      "OLD SKOOL SHOE",
+      "https://www.vans.com/en-us/mens?icn=topnav",
+      "70",
+      "https://images.vans.com/is/image/Vans/VN000D3HY28-HERO?wid=800&hei=800&fmt=jpeg&qlt=50&resMode=sharp2&op_usm=0.9,1.5,8,0"
+    ],
+    [
+      "Air Jordan 1 Retro High OG Stage Haze 555088-108",
+      "https://www.kickscrew.com/products/nike-air-jordan-1-retro-high-og-stage-haze-555088-108?variant=41818265485507",
+      "278",
+      "https://cdn.shopify.com/s/files/1/0603/3031/1875/products/2_f2699c90-bf0e-48fa-9ec3-566c0eb9a2fd_540x.jpg?v=1656134011"
+    ]
+  ],
+  "jewlery": [
+    [
+      "Black Silicone Men's Wedding Band",
+      "https://www.kay.com/black-silicone-mens-wedding-band/p/V-244307803",
+      "30",
+      "https://www.kay.com/productimages/processed/V-244307803_0_800.jpg?pristine=true",
+      "620"
+    ],
+    [
+      "Men's Wedding Band Titanium 8mm",
+      "https://www.kay.com/mens-wedding-band-titanium-8mm/p/V-252557006",
+      "75",
+      "https://www.kay.com/productimages/processed/V-252557006_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Foxtail Bracelet Stainless Steel 9\" Length",
+      "https://www.kay.com/mens-foxtail-bracelet-stainless-steel-9-length/p/V-507070201",
+      "47",
+      "https://www.kay.com/productimages/processed/V-507070201_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Franco Chain Bracelet Stainless Steel 9.25\"",
+      "https://www.kay.com/mens-franco-chain-bracelet-stainless-steel-925/p/V-509315800",
+      "30",
+      "https://www.kay.com/productimages/processed/V-509315800_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Barb Wire Cuff Bracelet Stainless Steel",
+      "https://www.kay.com/mens-franco-chain-bracelet-stainless-steel-925/p/V-509315800",
+      "53",
+      "https://www.kay.com/productimages/processed/V-508077601_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Wedding Band Stainless Steel/Black Ion-Plating 8mm",
+      "https://www.kay.com/mens-wedding-band-stainless-steelblack-ionplating-8mm/p/V-252915208",
+      "71",
+      "https://www.kay.com/productimages/processed/V-252915208_0_800.jpg?pristine=true"
+    ],
+    [
+      "Wedding Band Stainless Steel 8mm",
+      "https://www.kay.com/wedding-band-stainless-steel-8mm/p/V-252881002",
+      "135",
+      "https://www.kay.com/productimages/processed/V-252881002_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Ring Celtic Knots Stainless Steel",
+      "https://www.kay.com/mens-ring-celtic-knots-stainless-steel/p/V-031554102",
+      "27",
+      "https://www.kay.com/productimages/processed/V-031554102_0_800.jpg?pristine=true"
+    ],
+    [
+      "Men's Bracelet Stainless Steel Brown Leather",
+      "https://www.kay.com/mens-bracelet-stainless-steel-brown-leather/p/V-507781502",
+      "45",
+      "https://www.kay.com/productimages/processed/V-507781502_0_800.jpg?pristine=true"
+    ],
+    [
+      "Fossil Men's Casual Stainless Steel and Genuine Leather Bracelet",
+      "https://www.amazon.com/Fossil-Multi-Strand-Braided-Leather-Bracelet/dp/B07F7CF8JY/ref=sr_1_4?crid=23X6O8TVSZ7II&keywords=brown+leather+mens+bracelet&qid=1670830571&sprefix=brown+leather+mens+bracelet%2Caps%2C73&sr=8-4",
+      "46",
+      "https://m.media-amazon.com/images/I/81ylQ3E33mL._AC_UY535_.jpg"
+    ],
+    [
+      "Miabella Genuine Italian Braided Leather Bracelet for Men, Stainless Steel Magnetic Closure, Made in Italy",
+      "https://www.amazon.com/Miabella-Genuine-Bracelet-Stainless-Magnetic/dp/B08X16NQ4P/ref=sr_1_5?crid=23X6O8TVSZ7II&keywords=brown+leather+mens+bracelet&qid=1670830571&sprefix=brown+leather+mens+bracelet%2Caps%2C73&sr=8-5",
+      "18",
+      "https://m.media-amazon.com/images/I/718CQW7ZbNL._AC_UX679_.jpg"
+    ],
+    [
+      "KC Premium Leather Beads Bracelet Men Engraved Inspirational Adjustable Magnetic Clasp ",
+      "https://www.amazon.com/KC-Premium-Inspirational-Adjustable-Multi-Layer/dp/B085XNL9W9/ref=sr_1_16_sspa?crid=23X6O8TVSZ7II&keywords=brown+leather+mens+bracelet&qid=1670830571&sprefix=brown+leather+mens+bracelet%2Caps%2C73&sr=8-16-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQlczVFgxSlBBNDlGJmVuY3J5cHRlZElkPUEwMzc4MDE4MVpNRTRPVlRYTjNFRyZlbmNyeXB0ZWRBZElkPUEwMzU0NDEwMTJGNEFLUUw4UUM1UCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+      "25",
+      "https://m.media-amazon.com/images/I/61SEP+45k6L._AC_UX679_.jpg"
+    ],
+    [
+      "Mens Double-Row Braided Leather Bracelet Bangle Wristband with Stainless Steel Ornaments",
+      "https://www.amazon.com/Bracelet-Double-row-Wristband-Stainless-Ornaments/dp/B08BKLRVBD/ref=sr_1_13_sspa?crid=23X6O8TVSZ7II&keywords=brown+leather+mens+bracelet&qid=1670830571&sprefix=brown+leather+mens+bracelet%2Caps%2C73&sr=8-13-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQlczVFgxSlBBNDlGJmVuY3J5cHRlZElkPUEwMzc4MDE4MVpNRTRPVlRYTjNFRyZlbmNyeXB0ZWRBZElkPUEwODg2MjA5MUdEWlYxSVI3MzFBQyZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=",
+      "18",
+      "https://m.media-amazon.com/images/I/71d5NdxYucL._AC_UX569_.jpg"
+    ]
+  ]
+}
